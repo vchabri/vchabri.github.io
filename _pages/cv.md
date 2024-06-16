@@ -11,10 +11,6 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 * 2015 – 2018: Ph.D. in Mechanical Engineering, UCA and ONERA Palaiseau, France
 * 2014 – 2015: M.S. (Mechanical Engineering), UCA, Clermont-Fd, FR
 * 2014 – 2015: Extra International Year (gap year)
