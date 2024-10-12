@@ -11,14 +11,12 @@ redirect_from:
 
 Education
 ======
-* 2015 – 2018: Ph.D. in Mechanical Engineering, UCA and ONERA Palaiseau, France
+* 2015 – 2018: Ph.D. candidate in Mechanical Engineering, UCA and ONERA Palaiseau, France
 * 2014 – 2015: M.S. (Mechanical Engineering), UCA, Clermont-Fd, FR
 * 2014 – 2015: Extra International Year (gap year)
-    - 6 months: Visiting Scholar @ Northwestern University, Evanston, IL, USA
-    - 6 months: Research Intern @ Netherlands Aerospace Centre (NLR), Marknesse, The Netherlands
-* 2011 – 2015: Engineer’ Degree, IFMA, Clermont-Fd, FR
-* 2009 – 2011: Preparatory Classes for the French “Grandes Ecoles” (CPGE) PCSI/PSI$^*$
-* 2009: French Baccalaureate (eq. to A-levels) with highest honors
+    - 6 months: Visiting Scholar, IDEAL Lab at Northwestern University, Evanston (IL, USA)
+    - 6 months: Research Assistant, Netherlands Aerospace Centre (NLR), Marknesse, The Netherlands
+* 2011 – 2015: Engineering Degree from the French Institute for Advanced Mechanics (IFMA), Clermont-Ferrand, France
 
 Work experience
 ======
