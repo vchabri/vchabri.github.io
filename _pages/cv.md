@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,16 +11,19 @@ redirect_from:
 
 Current Position
 ======
-Research staff member at EDF R&D.
+**Since december 2018**: Research staff member at EDF R&D, in Chatou, France.
+* Research Engineer in Applied Probability and Statistics, member of the ``Performance, Industrial Risks, Monitoring for the Maintenance and Operating'' (PRISME) departement
+* Member of the ``Asset Management, Uncertainty Quantification and Statistical Learning'' group
+* Member of the [SINCLAIR (Saclay INdustrial Collaborative Laboratory for Artificial Intelligence Research)](https://sinclair-lab.com/index.html)  AI Lab
 
 Education
 ======
-* 2015 – 2018: Ph.D. candidate from the University of Clermont Auvergne and ONERA -- The French Aerospace Lab, Palaiseau, France
-* 2014 – 2015: M.Sc. (Mechanical Engineering), UCA, Clermont-Ferrand, France
+* 2015 – 2018: Ph.D. candidate at ONERA -- The French Aerospace Lab, Palaiseau, France.
+* 2014 – 2015: M.Sc. in Mechanics of Materials, Structures and Reliability, UCA, Clermont-Ferrand, France.
 * 2014 – 2015: Extra International Year (gap year)
-    - 6 months: Visiting Scholar, IDEAL Lab at Northwestern University, Evanston (IL, USA)
-    - 6 months: Research Assistant, Netherlands Aerospace Centre (NLR), Marknesse, The Netherlands
-* 2011 – 2015: Engineering Degree from the French Institute for Advanced Mechanics (IFMA), Clermont-Ferrand, France
+    - 6 mths: Visiting Scholar, IDEAL Lab at Northwestern University, Evanston, IL, USA
+    - 6 mths: Research Assistant, Netherlands Aerospace Centre (NLR), Marknesse, The Netherlands
+* 2011 – 2015: Engineering Degree from the French Institute for Advanced Mechanics (IFMA), Clermont-Ferrand, France.
   
 Work experience
 ======
