@@ -9,15 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+Current Position
+======
+Research staff member at EDF R&D.
+
 Education
 ======
-* 2015 – 2018: Ph.D. candidate in Mechanical Engineering, UCA and ONERA Palaiseau, France
-* 2014 – 2015: M.S. (Mechanical Engineering), UCA, Clermont-Fd, FR
+* 2015 – 2018: Ph.D. candidate from the University of Clermont Auvergne and ONERA -- The French Aerospace Lab, Palaiseau, France
+* 2014 – 2015: M.Sc. (Mechanical Engineering), UCA, Clermont-Ferrand, France
 * 2014 – 2015: Extra International Year (gap year)
     - 6 months: Visiting Scholar, IDEAL Lab at Northwestern University, Evanston (IL, USA)
     - 6 months: Research Assistant, Netherlands Aerospace Centre (NLR), Marknesse, The Netherlands
 * 2011 – 2015: Engineering Degree from the French Institute for Advanced Mechanics (IFMA), Clermont-Ferrand, France
-
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -64,4 +68,5 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+<> * Currently signed in to 43 different slack teams
+<> blabla
