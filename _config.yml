@@ -21,7 +21,7 @@ repository               : "vchabri/vchabri.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "bio-photo-2.jpg"
   name             : "Vincent Chabridon"
   pronouns         : # example: "she/her"  
   bio              : "PhD, Research Engineer at EDF R&D"
