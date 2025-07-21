@@ -7,9 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I'm currently working as a research engineer at EDF R&D.
-
-My research focuses on topics such as uncertainty quantification, probability and statistics applied to industrial risk assessment, and statistical learning.
+As a research engineer at EDF R&D, my research focuses on various aspects of **Uncertainty Quantification**.
+More generally, I'm interested in a wide range of topics relating to the application of Probability and Statistics (including Machine Learning), to industrial risk management.
 
 News
 ======
