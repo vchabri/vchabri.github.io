@@ -5,16 +5,18 @@ permalink: /research/
 author_profile: true
 ---
 
+## Main research topics in UQ/ML:
 
-## Titre 1
+* Rare event simulation techniques
+* Robust approaches for risk-based decision-making under uncertainty (conformal prediction, statistical decision, validation)
+* Global sensitivity analysis (importance measures) for eXplainable & interpretable AI (XAI)
+* Kernel techniques (for sensitivity analysis and sampling)
 
-* todo
-* todo
+## Main applications:
 
-## Titre 2
+* Risk assessment for nuclear power plants
+* Complex dependence modeling
+* Survival analysis of repairable components
+* Data-driven and hybrid prognostics for clogging of steam generators
 
-*
-*
-
-## Titre 3
 
