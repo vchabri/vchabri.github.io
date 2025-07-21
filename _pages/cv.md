@@ -7,9 +7,9 @@ redirect_from:
   - /resume
 ---
 
-Current Position (since December 2018)
+Current Position
 ======
-Research staff member at EDF R&D (EDF Lab Chatou, 6 quai Watier, Chatou, France).
+Since _December 2018_: Research staff member at EDF R&D (EDF Lab Chatou, 6 quai Watier, Chatou, France).
 * **Research Engineer in Applied Probability and Statistics**
 * Department: ``Performance, Industrial Risks, Monitoring for the Maintenance and Operating'' (PRISME)
 * Group: ``Asset Management, Uncertainty Quantification and Statistical Learning'' group (P17-GAIA)
@@ -17,10 +17,9 @@ Research staff member at EDF R&D (EDF Lab Chatou, 6 quai Watier, Chatou, France)
 
 Education
 ======
-* 2015 – 2018: Ph.D. candidate @ ONERA Palaiseau and Clermont Auvergne University
-* 2014 – 2015: M.Sc. in Mechanics of Materials, Structures and Reliability @ Clermont Auvergne University
-* 2014 – 2015: Extra International Year (gap year)
-* 2011 – 2015: Engineering Degree from the French Institute for Advanced Mechanics (ex-IFMA, now SIGMA), Clermont-Ferrand, France.
+* 2015 – 2018: Ph.D. degree obtained from ONERA and Clermont Auvergne University
+* 2014 – 2015: M.Sc. degree in Mechanical Engineering and Uncertainty Quantification from Clermont Auvergne University
+* 2011 – 2015: Engineering Degree obtained at the _French Institute for Advanced Mechanics_ (ex-IFMA, now SIGMA), in Clermont-Ferrand
   
 Work experience & internships
 ======
@@ -45,5 +44,6 @@ Work experience & internships
 * _May 2013 – September 2013_: Assistant Research Engineer internship
   *  Cenaero France (Moissy-Cramayel, France)
   *  Subject: ``Influence of the design of experiments on the performance of a multifidelity co-kriging surrogate model for the Stress Intensity Factor calculation''
+  *  Advisors: Jean-Pierre LEFEBVRE & Eric WYART
   *  Skills: DoE & sampling techniques (LHS, CVT, LCVT), surrogate modeling (co-kriging), fracture mechanics (XFEM method), programming & HPC (Python, Bash)
   
