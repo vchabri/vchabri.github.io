@@ -5,20 +5,18 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=xBfXuv0AAAAJ&hl=en)!
+You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=xBfXuv0AAAAJ&hl=en)!
 
-Preprints
-===
-* qdjsdjkqnk
-- kndsk
-- alkz,dl
+# Preprints
 
-Articles (HAL and ArXiv versions may not be up to date)
-===
+* todo
+* todo
 
-Proceedings and technical reports
-===
+# Articles (HAL and ArXiv versions may not be up to date)
 
 
-Manuscripts
-===
+# Proceedings and technical reports
+
+
+# Manuscripts
+* [PhD Thesis](https://theses.hal.science/tel-02087860v1)
