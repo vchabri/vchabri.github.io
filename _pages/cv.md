@@ -7,22 +7,19 @@ redirect_from:
   - /resume
 ---
 
-Current Position
-======
+## Current Position
 Since _December 2018_: Research staff member at EDF R&D (EDF Lab Chatou, 6 quai Watier, Chatou, France).
 * **Research Engineer in Applied Probability and Statistics**
 * Department: ``Performance, Industrial Risks, Monitoring for the Maintenance and Operating'' (PRISME)
 * Group: ``Asset Management, Uncertainty Quantification and Statistical Learning'' group (P17-GAIA)
 * Member of the [SINCLAIR (Saclay INdustrial Collaborative Laboratory for Artificial Intelligence Research)](https://sinclair-lab.com/index.html) AI Lab
 
-Education
-======
+## Education
 * 2015 – 2018: Ph.D. degree obtained from ONERA and Clermont Auvergne University
 * 2014 – 2015: M.Sc. degree in Mechanical Engineering and Uncertainty Quantification from Clermont Auvergne University
 * 2011 – 2015: Engineering Degree obtained at the _French Institute for Advanced Mechanics_ (ex-IFMA, now SIGMA), in Clermont-Ferrand
   
-Work experience & internships
-======
+## Work experience & internships
 * _April 2015 – September 2015_: Graduation Internship / Master Thesis
   *  ONERA – The French Aerospace Lab (Palaiseau, France)
   *  Subject: ``Sensitivity analysis of a rare event probability using derivative-based global sensitivity measures''
