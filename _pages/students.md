@@ -5,7 +5,7 @@ permalink: /students/
 author_profile: true
 ---
 
-This web page would be terribly empty without the help of the many people with whom I've had the privilege of collaborating. I hope I haven't forgotten anyone. If I have, please let me know by emailing me directly at _vincent dot chabridon at edf for fr_.
+This web page would be terribly empty without the help of the many people with whom I've had the privilege of collaborating. I hope I haven't forgotten anyone. If I have, please let me know by emailing me directly at _vincent dot chabridon at edf dot fr_.
 
 ### PhD Students
 * Marie TEMPLE-BOYER (2024 - current)
@@ -28,13 +28,13 @@ This web page would be terribly empty without the help of the many people with w
   - Advisors: <ins> V. C.</ins> and N. Bousquet
   - Subject: ``Todo''
 * [Emma CUSSENOT](https://www.linkedin.com/in/emma-cussenot-b5b04a257/?originalSubdomain=fr) (now 3rd year Student at CentraleSupélec)
-  - Advisors: <ins> V. C.</ins>, J. Pelamatti, E. Remy and B. Iooss
+  - Advisors: <ins> V. C.</ins>, J. Pelamatti, E. Remy and B. Iooss (& [G. Perrin](https://pagespro.univ-gustave-eiffel.fr/guillaume-perrin))
   - Subject: ``Todo''
 * [Corentin ALARY-FERRANDIZ](https://www.linkedin.com/in/corentin-alary-ferrandiz-a85b661b8/) (now at Direction Générale des Entreprises)
   - Advisors: E. Dautrême, E. Remy and <ins> V. C.</ins>
   - Subject: ``Todo''
 * [Enikő BARTÓK](https://l2s.centralesupelec.fr/u/bartok-eniko/) (now PhD Student at L2S/CentraleSupélec and IFPEN)
-  - Advisors: J. Pelamatti and <ins> V. C.</ins>
+  - Advisors: J. Pelamatti, <ins> V. C.</ins> and B. Iooss
   - Subject: ``Todo''
 * [Edgar JABER](https://edgarjaber.github.io/) (now PhD Student at ENS Paris-Saclay - LISN and EDF R&D)
   - Advisors: <ins> V. C.</ins> and E. Remy
