@@ -17,5 +17,5 @@ author_profile: true
   - Involved in WP1 (Postdoc of Gabriel SARAZIN) and co-leader of WP2 (collaboration in the PhD thesis of Romain AIT-ABDELMALEK LOMENECH)
 
 * [H2020 HIPERWIND Project](https://www.hiperwind.eu/)
-  _ _HIghly advanced Probabilistic design and Enhanced Reliability methods for high-value, cost-efficient offshore WIND_
+  - _HIghly advanced Probabilistic design and Enhanced Reliability methods for high-value, cost-efficient offshore WIND_
   - Mainly involved in WP4 in support of the PhD programme of Elias FEKHARI
