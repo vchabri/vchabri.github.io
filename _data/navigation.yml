@@ -3,23 +3,26 @@ main:
   - title: "Research interests"
     url: /research/
     
-  - title: "Publications & Communications"
+  - title: "Pub' & Com'"
     url: /publications/
 
-  - title: "Collaborative Projects"
+  - title: "Collaborative projects"
     url: /collaborative_projects/
 
-#  - title: "Talks"
-#    url: /talks/    
+  - title: "Sci. Diss."
+    url: /scientific_dissemination/
+  
+  - title: "Students"
+    url: /students/
 
   - title: "Teaching"
     url: /teaching/
-
-  - title: "Students"
-    url: /students/
     
   - title: "Bio"
     url: /cv/
+
+  - title: "Misc."
+    url: /misc/
 
 #  - title: "Portfolio"
 #    url: /portfolio/
