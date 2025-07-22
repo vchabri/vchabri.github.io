@@ -19,3 +19,5 @@ author_profile: true
 * [H2020 HIPERWIND Project](https://www.hiperwind.eu/)
   - _HIghly advanced Probabilistic design and Enhanced Reliability methods for high-value, cost-efficient offshore WIND_
   - Mainly involved in WP4 in support of the PhD programme of Elias FEKHARI
+  - Teaching session at the [HIPERWIND PhD 2023 Summer School](https://github.com/Hiperwind/PhDSchool) (August 28 - 31, 2023) in DTU Risø Campus, Roskilde, Denmark
+
