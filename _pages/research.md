@@ -9,14 +9,14 @@ author_profile: true
 
 * Rare event simulation techniques
 * Robust approaches for risk-based decision-making under uncertainty (conformal prediction, statistical decision, validation)
-* Global sensitivity analysis (importance measures) for eXplainable & interpretable AI (XAI)
+* Global sensitivity analysis (importance measures) for UQ and eXplainable & interpretable AI (XAI)
 * Kernel techniques (for sensitivity analysis and sampling)
 
 ## Main applications:
 
-* Risk assessment for nuclear power plants
-* Complex dependence modeling
-* Survival analysis of repairable components
-* Data-driven and hybrid prognostics for clogging of steam generators
+* Risk assessment of nuclear power plants (thermal-hydraulic accident scenarios)
+* Hybrid prognostics for clogging of steam generators
+* Survival analysis, degradation modeling and maintenance optimization of repairable hydroelectric components
+* Quantification of environmental uncertain data in wind energy
 
 
