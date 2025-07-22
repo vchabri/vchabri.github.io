@@ -11,8 +11,15 @@ As a research engineer at EDF R&D, my research focuses on various aspects of **U
 
 ## News
 
+### Announcements & Offers
+* Nothing yet.
+
 ### Upcoming events
 * Nothing yet.
 
-### Announcements & Offers
-* Nothing yet.
+## Contact info
+* Office: EDF R&D, 6 quai Watier, 78401 Chatou, France
+* Email: first dot last at edf dot fr (first=vincent, last=chabridon, dot=., at=@)
+
+
+
