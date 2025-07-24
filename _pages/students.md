@@ -38,13 +38,15 @@ This web page would be terribly empty without the help of the many people with w
   - Subject: ``Todo''
 * [Edgar JABER](https://edgarjaber.github.io/) (now PhD Student at ENS Paris-Saclay - LISN and EDF R&D)
   - Advisors: <ins> V. C.</ins> and E. Remy
-  - Subject: ``Todo''
+  - Subject: ``Traitement des incertitudes pour la simulation numérique du colmatage des générateurs de vapeur''
 * [Margot HERIN](https://sites.google.com/view/margotherin/about) (now PhD Student at LIP6, Sorbonne University)
   - Advisors: M. Il Idrissi, <ins> V. C.</ins> and B. Iooss
-  - Subject: ``Todo''
+  - Subject: ``Proportional values: an alternative to Shapley values in sensitivity analysis''
 * [Marouane IL IDRISSI](https://marouaneilidrissi.com/en/home) (now Postdoc at UQÀM and IID)
   - Advisors: <ins> V. C.</ins> and B. Iooss
-  - Subject: ``Todo''
+  - Subject: ``Shapley Effects for Reliability-oriented Sensitivity Analysis - Application to black-box models and given-data algorithms''
 * [Youssef JEBROUN](https://www.linkedin.com/in/youssef-jebroun-8930b9172/) (now at Sopra HR Software)
+  - 3rd year ENSEM Nancy, internship from March 2020 to September 2020
   - Advisors: E. Fekhari, <ins> V. C.</ins> and M. Baudin
-  - Subject: ``Todo''
+  - Subject: ``Implementation of a benchmark module for reliability analysis in OpenTURNS''
+  - Creation of the [otbenchmark](https://github.com/openturns/otbenchmark) OpenTURNS' module
