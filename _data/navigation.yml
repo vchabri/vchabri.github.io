@@ -1,10 +1,7 @@
 # main links links
 main:
-#  - title: "Research interests"
-#    url: /research_publicom/
-    
   - title: "Research"
-    url: /publications/
+    url: /research_publicom/
 
   - title: "Students"
     url: /students/
@@ -23,12 +20,3 @@ main:
 
   - title: "Misc."
     url: /misc/
-
-#  - title: "Portfolio"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "Guide"
-#    url: /markdown/
