@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications & Communications"
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
@@ -17,7 +17,7 @@ author_profile: true
 * Survival analysis, degradation modeling and maintenance optimization of repairable hydroelectric components
 * Quantification of environmental uncertain data in wind energy
 
-## Publications
+## Publications & Communications
 
 You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=xBfXuv0AAAAJ&hl=en)!
 
@@ -26,7 +26,7 @@ You can also find them on [my Google Scholar profile](https://scholar.google.com
 * todo
 * todo
 
-### Articles (HAL and ArXiv versions may not be up to date)
+### Peer-reviewed articles (HAL and ArXiv versions may not be up to date)
 
 10. titi
 9. eiuutut
@@ -39,13 +39,13 @@ You can also find them on [my Google Scholar profile](https://scholar.google.com
 2. kjqds
 1. jsdhc
 
-### Proceedings and technical reports
+### Proceedings
 * todo
 
 ### Manuscripts
 * [PhD Thesis](https://theses.hal.science/tel-02087860v1)
 
-## Communications
+### Communications (talks and posters)
 
 * hdh
 * fgf
