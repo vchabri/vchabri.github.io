@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications & Communications"
-permalink: /research/
+permalink: /research_publicom/
 author_profile: true
 ---
 
