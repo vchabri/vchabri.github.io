@@ -1,18 +1,32 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publications & Communications"
+permalink: /research/
 author_profile: true
 ---
 
+## Main research interests in UQ/ML:
+* Rare event simulation techniques
+* Robust approaches for risk-based decision-making under uncertainty (conformal prediction, statistical decision, validation)
+* Global sensitivity analysis (importance measures) for UQ and eXplainable & interpretable AI (XAI)
+* Kernel techniques (for sensitivity analysis and sampling)
+
+## Main applications of interest:
+* Risk assessment of nuclear power plants (thermal-hydraulic accident scenarios)
+* Hybrid prognostics for clogging of steam generators
+* Survival analysis, degradation modeling and maintenance optimization of repairable hydroelectric components
+* Quantification of environmental uncertain data in wind energy
+
+## Publications
+
 You can also find them on [my Google Scholar profile](https://scholar.google.com/citations?user=xBfXuv0AAAAJ&hl=en)!
 
-## Preprints
+### Preprints
 
 * todo
 * todo
 
-## Articles (HAL and ArXiv versions may not be up to date)
+### Articles (HAL and ArXiv versions may not be up to date)
 
 10. titi
 9. eiuutut
@@ -25,8 +39,13 @@ You can also find them on [my Google Scholar profile](https://scholar.google.com
 2. kjqds
 1. jsdhc
 
-## Proceedings and technical reports
+### Proceedings and technical reports
+* todo
 
-
-## Manuscripts
+### Manuscripts
 * [PhD Thesis](https://theses.hal.science/tel-02087860v1)
+
+## Communications
+
+* hdh
+* fgf
