@@ -5,7 +5,8 @@ permalink: /students/
 author_profile: true
 ---
 
-This web page would be terribly empty without the help of the many people with whom I've had the privilege of collaborating. I hope I haven't forgotten anyone. If I have, please let me know by emailing me directly at _vincent dot chabridon at edf dot fr_.
+This website would be terribly empty without the help of the many people with whom I've had the privilege of collaborating. I hope I haven't forgotten anyone.
+If I have, please let me know by emailing me directly (see Contact info on Vince's homepage).
 
 ### PhD Students
 * Marie TEMPLE-BOYER (2024 - 2027)
@@ -56,7 +57,7 @@ This web page would be terribly empty without the help of the many people with w
   - Intern from May to October 2022
   - Subject: ``_Uncertainty quantification in a steam generator clogging simulation code_''
   - Advisors: <ins> V. C.</ins> and E. Remy
-* [Margot HERIN](https://sites.google.com/view/margotherin/about) (now PhD Student at LIP6, Sorbonne University)
+* [Margot HERIN](https://sites.google.com/view/margotherin/about) (successfully defended her PhD at LIP6, Sorbonne University)
   - 3rd year at ENSTA ParisTech & MSc in Data Sciences at IP Paris
   - Intern from April to September 2021
   - Subject: ``_Proportional values: an alternative to Shapley values in sensitivity analysis_''
