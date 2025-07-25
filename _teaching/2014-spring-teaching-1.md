@@ -1,20 +1,21 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant (lab assistant & grader)"
 collection: teaching
-type: "Undergraduate course"
+type: "Graduate course (MSAEE5ME33)"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "EPF Engineering School"
+date: 2017
+location: "Saint-Cyr-l'École, France"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+Worked as a TA from October 2015 to September 2017.
 
-Heading 1
+★ Structural Dynamics and Experimental Modal Analysis ★
 ======
-
-Heading 2
-======
-
-Heading 3
-======
+- ◎ Students: ~10 Master students (5th year, Major in Mechanics - Specialization in Aeronautics & Space Engineering)
+- ◎ Learning Resource: slides + blackboard
+- ◎ Experimental Devices: simply supported thin square plate & simply supported glider reduced model
+- ◎ Computer Usage: Matlab & MODAN software
+- ◎ KeyWords: oscillator, vibrations, modal analysis, modal vector, damping factor, Fast Fourier Transform
+- ◎ Outcome Measurement: one lab report per group of students
+- ◎ Language: French
