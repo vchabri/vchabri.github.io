@@ -17,7 +17,7 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Advisors: [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/), [Didier Lucor](https://perso.lisn.upsaclay.fr/lucor/), Emmanuel Remy and <ins> V. C.</ins>
 * Elias FEKHARI (2021 - 2024)
   - Title: ``_Uncertainty quantification in multi-physics model for wind turbine asset management_''
-  - Advisors: Bertrand Iooss, <ins> V. C.</ins> and Joseph Muré
+  - Advisors: [Bertrand Iooss](https://biooss1.wixsite.com/bertrand), <ins> V. C.</ins> and Joseph Muré
   - Defended on March, 12th, 2024
   - Jury: Pr. Franck Schoefs (Review.), Pr. Daniel Straub (Review.), Dr. Mireille Bossy (Pdt.), Pr. Sébastien Da Veiga (Exam.), Pr. Bruno Sudret (Exam.), Dr. Anaïs Lovera (Guest)
 * Antoine AJENJO (2019 - 2022)
@@ -78,3 +78,7 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Recipient of the [2024 Cauchy fellowship](https://cermics-lab.enpc.fr/cauchy-fellowship/) from CERMICS and Ecole Nationale des Ponts et Chaussées
   - Subject: ``_Kernel methods for inference problems under covariate shift_''
   - Advisors: Julien Reygner, Loucas Pillaud-Vivien
+* PhD Thesis of [Romain Ait-Abdelmalek Lomenech](https://l2s.centralesupelec.fr/u/ait-abdelmalek-lomenech-romain/)
+  - PhD work realized as part of the WP2 in the [ANR SAMOURAI Project](https://uq.math.cnrs.fr/anr-samourai#560e1246ab826b0a0cff219b8e62e808)
+  - Collaboration through one published article
+* PhD Thesis of [Jean Leprovost](https://lamcos.insa-lyon.fr/fiche_personnelle.php?p=23_1&L=1&Numpers=2403)
