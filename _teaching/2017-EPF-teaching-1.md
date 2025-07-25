@@ -2,7 +2,7 @@
 title: "Teaching Assistant"
 collection: teaching
 type: "Graduate course (MSAEE5ME33)"
-permalink: /teaching/2017-spring-teaching-1
+permalink: /teaching/2017-EPF-teaching-1
 venue: "EPF Engineering School"
 date: 2017
 location: "Saint-Cyr-l'École, France"
