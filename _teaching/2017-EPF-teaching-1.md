@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate course (MSAEE5ME33)"
 permalink: /teaching/2017-EPF-teaching-1
 venue: "EPF Engineering School"
-date: 2017
+date: 2015-01-01
 location: "Saint-Cyr-l'École, France"
 ---
 
