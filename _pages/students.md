@@ -33,11 +33,11 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
 
 ### Master Students
 * Imad EL-HASSOUNI
-  - 2nd year from Ecole polytechnique
+  - 2nd year at Ecole polytechnique
   - Intern from June to September 2025
   - Subject: ``_Reimplementation and evaluation of conservative calculation methods in risk analysis using metamodels_''
   - Advisors: <ins> V. C.</ins> and N. Bousquet
-* Emma CUSSENOT](https://www.linkedin.com/in/emma-cussenot-b5b04a257/?originalSubdomain=fr) (now 3rd year Student at CentraleSupélec)
+* Emma CUSSENOT (now 3rd year Student at CentraleSupélec)
   - 2nd year at CentraleSupélec (gap-year internship)
   - Intern from March to July 2024
   - Subject: ``_Certification of simulation and estimation algorithms for rare events: analysis of appropriate risk measures and application to critical industrial systems_''
@@ -48,12 +48,12 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Subject: ``_Statistical evaluation of the reliability of hydroelectric transformers_''
   - Advisors: E. Dautrême, E. Remy and <ins> V. C.</ins>
 * [Enikő BARTÓK](https://l2s.centralesupelec.fr/u/bartok-eniko/) (now PhD Student at L2S/CentraleSupélec and IFPEN)
-  - MSc student from M2 - Statistics at Sorbonne University
+  - MSc in Statistics, Learning and Algorithms (MS2A) at Sorbonne University
   - Intern from May to October 2022
   - Subject: ``_Global sensivity analysis in the presence of trigger variables_''
   - Advisors: J. Pelamatti, <ins> V. C.</ins> and B. Iooss
 * [Edgar JABER](https://edgarjaber.github.io/) (now PhD Student at ENS Paris-Saclay - LISN and EDF R&D)
-  - 3rd year at CentraleSupélec & MSc in Analysis-Modeling-Simulation at Paris-Saclay University
+  - 3rd year at CentraleSupélec & MSc in Analysis, Modeling, Simulation (AMS) at Paris-Saclay University
   - Intern from May to October 2022
   - Subject: ``_Uncertainty quantification in a steam generator clogging simulation code_''
   - Advisors: <ins> V. C.</ins> and E. Remy
