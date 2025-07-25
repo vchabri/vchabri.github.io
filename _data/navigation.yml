@@ -3,14 +3,14 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Students"
-    url: /students/
-
   - title: "Collaborative projects"
     url: /collaborative_projects/
 
   - title: "Sci. Diss."
     url: /scientific_dissemination/
+
+  - title: "Students"
+    url: /students/
 
   - title: "Teaching"
     url: /teaching/
