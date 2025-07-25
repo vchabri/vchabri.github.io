@@ -13,7 +13,7 @@ main:
     url: /students/
 
   - title: "Teaching"
-    url: /teaching/
+    url: /teaching_experiences/
     
   - title: "Bio"
     url: /cv/
