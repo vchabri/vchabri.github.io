@@ -1,11 +1,11 @@
 ---
-title: "Teaching experience 3"
+title: "Teaching experience 2"
 collection: teaching
 type: "Undergraduate course"
-permalink: /teaching/2017-sigma-teaching-1
-venue: "SIGMA Clermont, Department"
-date: 2017-01-01
-location: "CFd, France"
+permalink: /teaching/2017-sigma-teaching-2
+venue: "SIGMA Clermont, Structures & Mechanics of Materials Dpt"
+date: 2017
+location: "Clermont-Ferrand, France"
 ---
 
 
