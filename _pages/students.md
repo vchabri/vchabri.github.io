@@ -62,6 +62,7 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Intern from April to September 2021
   - Subject: ``_Proportional values: an alternative to Shapley values in sensitivity analysis_''
   - Advisors: M. Il Idrissi, <ins> V. C.</ins> and B. Iooss
+  - Contribution(s): [journal article @ SIAM ASA/JUQ 2021](https://doi.org/10.1137/22M153032) ([ArXiv](https://arxiv.org/pdf/2210.13065)) and [SAMO Conference 2022](https://samo2022.math.fsu.edu/sites/g/files/upcbnu3196/files/2022-02/herin_SAMO_inperson.pdf)
 * [Marouane IL IDRISSI](https://marouaneilidrissi.com/en/home) (now Postdoc at UQÀM and IID)
   - 3rd year at ENSAI Rennes & MSc in Statistics at University of Rennes
   - Intern from April to September 2020
