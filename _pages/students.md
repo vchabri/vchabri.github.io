@@ -72,6 +72,7 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Intern from March to September 2020
   - Subject: ``_Implementation of a benchmark module for reliability analysis ([otbenchmark](https://github.com/openturns/otbenchmark)) in OpenTURNS_''
   - Advisors: E. Fekhari, <ins> V. C.</ins> and M. Baudin
+  - :paperclip: [Article @ UNCECOMP 2021](https://uq.math.cnrs.fr/media/uc21_19093.pdf)
      
 ### Other collaborations
 * Postdoc of [Guillaume CHENNETIER](https://guillaumechennetier.owlstown.net/)
