@@ -19,12 +19,12 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Title: ``_Uncertainty quantification in multi-physics model for wind turbine asset management_''
   - Advisors: [Bertrand Iooss](https://biooss1.wixsite.com/bertrand), <ins> V. C.</ins> and Joseph Muré
   - Defended on March, 12th, 2024
-  - Jury: Pr. Franck Schoefs (Review.), Pr. Daniel Straub (Review.), Dr. Mireille Bossy (Pdt.), Pr. Sébastien Da Veiga (Exam.), Pr. Bruno Sudret (Exam.), Dr. Anaïs Lovera (Guest)
+  - Jury: Pr. Franck Schoefs (Rev.), Pr. Daniel Straub (Rev.), Dr. Mireille Bossy (Pdt.), Pr. Sébastien Da Veiga (Exam.), Pr. Bruno Sudret (Exam.), Dr. Anaïs Lovera (Guest)
 * Antoine AJENJO (2019 - 2022)
   - Title: ``_Info-gap robustness assessment of reliability evaluations for the safety of critical industrial systems_''
   - Advisors: Scott Cogan, Emeline Sadoulet-Reboul, <ins> V. C.</ins> and Emmanuel Ardillon
   - Defended on November, 15th, 2022
-  - Jury: Dr. François Hemez (Review.), Dr. Jérôme Morio (Review.), Pr. Anas Batou (Exam.), Pr. Pierre-Alain Boucard (Pdt.)
+  - Jury: Dr. François Hemez (Rev.), Dr. Jérôme Morio (Rev.), Pr. Anas Batou (Exam.), Pr. Pierre-Alain Boucard (Pdt.)
 
 ### Postdocs
 * Gabriel SARAZIN
