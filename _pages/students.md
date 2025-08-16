@@ -67,7 +67,7 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
   - Intern from April to September 2020
   - Subject: ``_Shapley Effects for Reliability-oriented Sensitivity Analysis - Application to black-box models and given-data algorithms_''
   - Advisors: <ins> V. C.</ins> and B. Iooss
-  - Contribution(s): [journal article @ ENVSOFT 2021](doi.org/10.1016/j.envsoft.2021.105115.)
+  - Contribution(s): [journal article @ ENVSOFT 2021](https://doi.org/10.1016/j.envsoft.2021.105115)
 * Youssef JEBROUN (now at Sopra HR Software)
   - 3rd year at ENSEM Nancy
   - Intern from March to September 2020
