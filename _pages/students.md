@@ -50,7 +50,7 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
 * [Enikő BARTÓK](https://l2s.centralesupelec.fr/u/bartok-eniko/) (now PhD Student at L2S/CentraleSupélec and IFPEN)
   - MSc in Statistics, Learning and Algorithms (MS2A) at Sorbonne University
   - Intern from May to October 2022
-  - Subject: ``_Global sensivity analysis in the presence of trigger variables_''
+  - Subject: ``_Global sensitivity analysis in the presence of trigger variables_''
   - Advisors: J. Pelamatti, <ins> V. C.</ins> and B. Iooss
 * [Edgar JABER](https://edgarjaber.github.io/) (now PhD Student at ENS Paris-Saclay - LISN and EDF R&D)
   - 3rd year at CentraleSupélec & MSc in Analysis, Modeling, Simulation (AMS) at Paris-Saclay University
@@ -80,8 +80,10 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
 * Postdoc of [Guillaume CHENNETIER](https://guillaumechennetier.owlstown.net/)
   - Recipient of the [2024 Cauchy fellowship](https://cermics-lab.enpc.fr/cauchy-fellowship/) from CERMICS and Ecole Nationale des Ponts et Chaussées
   - Subject: ``_Kernel methods for inference problems under covariate shift_''
-  - Advisors: Julien Reygner, Loucas Pillaud-Vivien
+  - Advisors: Julien Reygner, Loucas Pillaud-Vivien (ENPC, Cermics)
 * PhD Thesis of [Romain Ait-Abdelmalek Lomenech](https://l2s.centralesupelec.fr/u/ait-abdelmalek-lomenech-romain/)
-  - PhD work realized as part of the WP2 in the [ANR SAMOURAI Project](https://uq.math.cnrs.fr/anr-samourai#560e1246ab826b0a0cff219b8e62e808)
-  - Collaboration through one published article
+  - PhD work realized as part of the WP2 of the [ANR SAMOURAI Project](https://uq.math.cnrs.fr/anr-samourai#560e1246ab826b0a0cff219b8e62e808)
+  - Advisors: Julien Bect, Emmanuel Vazquez (CentraleSupélec, L2S)
 * PhD Thesis of [Jean Leprovost](https://lamcos.insa-lyon.fr/fiche_personnelle.php?p=23_1&L=1&Numpers=2403)
+  - PhD work realized as part of the FRAMATOME-EDF-INSA collaborative laboratory
+  - Advisors: Nawfal Blal, Thibaut Chaise, Anthony Gravouil (INSA Lyon, LaMCoS)
