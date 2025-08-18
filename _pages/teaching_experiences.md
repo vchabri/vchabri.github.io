@@ -11,7 +11,7 @@ author_profile: true
 - Sceaux & Saint-Cyr-l'École
 - Course: MSAEE5ME33 (graduate course)
 
-### ★ Structural Dynamics and Experimental Modal Analysis ★
+### Structural Dynamics and Experimental Modal Analysis
 - Students: 2 groups of 10 students (3rd year, Major in Mechanics - Specialization in Aeronautics & Space Engineering)
 - Learning Resource: slides + blackboard
 - Experimental Devices: simply supported thin square plate & simply supported glider reduced model
@@ -25,7 +25,7 @@ author_profile: true
 - Clermont-Ferrand
 - Course: OMF-St2M-S9 (graduate course)
 
-### ★ Stochastic Structural Mechanics ★
+### Stochastic Structural Mechanics
 - Students: 16 students (3rd year Major in Structural Mechanics)
 - Learning Resource: lab tutorial
 - Format of Course: 1 lab (4 hrs) / 8 students
