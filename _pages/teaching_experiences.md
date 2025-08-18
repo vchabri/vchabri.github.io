@@ -5,7 +5,7 @@ permalink: /teaching_experiences/
 author_profile: true
 ---
 
-### Teaching Assistant
-- sdj
-- eklnd
-- dkj
+# Teaching
+- First, repeat after me
+- Second, repeat after me
+- Third repeat after me!
