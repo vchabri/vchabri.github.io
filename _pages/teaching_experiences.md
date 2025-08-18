@@ -5,5 +5,6 @@ permalink: /teaching_experiences/
 author_profile: true
 ---
 
-
-todo
+# Teaching Assistant
+- sdj
+- eklnd
