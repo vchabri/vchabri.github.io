@@ -18,3 +18,8 @@ author_profile: true
 * Outcome Measurement: one lab report per group
 * Language: English
 
+| Command | Description |
+| --- | --- |
+| `git status` | List all *new or modified* files |
+| `git diff` | Show file differences that **haven't been** staged |
+
