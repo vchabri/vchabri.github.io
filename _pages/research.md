@@ -42,8 +42,12 @@ You can also find them on [my Google Scholar profile](https://scholar.google.com
 ### Proceedings
 * todo
 
-### Manuscripts
-* [PhD Thesis](https://theses.hal.science/tel-02087860v1)
+### Manuscript(s)
+* PhD Thesis
+  - Title: ``_Reliability-oriented sensitivity analysis under probabilistic model uncertainty - Application to aerospace systems_''
+  - Advisors: Nicolas Gayton, Jérôme Morio, Mathieu Balesdent, Jean-Marc Bourinet
+  - Defended on November, 26th, 2018 ([manuscript](https://theses.hal.science/tel-02087860v1))
+  - Jury: Dr. Bertrand Iooss (Rev.), Pr. Carsten Proppe (Rev.), Pr. Béatrice Laurent-Bonneau (Exam.), Pr. Bruno Sudret (Pdt.), Pr. Christian Gogu (Guest)
 
 ### Communications (talks and posters)
 
