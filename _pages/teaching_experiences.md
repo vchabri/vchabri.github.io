@@ -15,11 +15,11 @@ author_profile: true
 ### ★ STAT: Statistics and Data Analysis @ Ecole Nationale des Ponts et Chaussées (Champs-sur-Marne) ★
 * KeyWords: probabilistic modeling; parametric estimation; maximum likelihood; confidence intervals; Bayesian estimation; statistical hypothesis testing; Chi-Square tests; Kolmogorov tests; linear regression; logistic regression; likelihood ratio test; Wald's test; ANOVA; Shapiro-Wilk test
 
-| ◎ Period | September 2022 - June 2025 |
-| ◎ Format | 10 slots of 90'-lectures |
+| ◎ Period | September 2022 - June 2025 (3 years) |
+| ◎ Format | 10 lectures of 120 minutes + 2 flipped classrooms + 1 exam |
 | ◎ Role | Lecturer & grader |
-| ◎ Contact | [Julien Reygner](https://cermics.enpc.fr/~reygnerj/) |
-| ◎ Students | 1 class of 25 Master students (2nd year Major in Applied Mathematics and Computer Science (IMI) and Economics, Management, Finance (SEGF) ) |
+| ◎ Contact | [Julien Reygner](https://cermics.enpc.fr/~reygnerj/) - [Course Syllabus](https://gede.enpc.fr/programme/fiche.aspx?param=M%3aSTAT) |
+| ◎ Students | 1 class of 25 Master students (2nd year Major in Applied Mathematics and Computer Science (IMI) and Economics, Management, Finance (SEGF)) |
 | ◎ Level | graduate course |
 | ◎ Learning Resource | lecture notes + blackboard |
 | ◎ Computer Usage | Python code |
@@ -29,7 +29,7 @@ author_profile: true
 ### ★ OMF-St2M-S9: Stochastic Structural Mechanics @ SIGMA Clermont ★
 * KeyWords: sensitivity analysis, scatter plots, Pearson linear correlation, local sensitivities, elasticities, Morris' method, Sobol' indices, variance decomposition
 
-| ◎ Period | February 2017 - March 2017 |
+| ◎ Period | February 2017 - March 2017 (1 year) |
 | ◎ Format | 1 lab (4 hrs) / group (8 students) |
 | ◎ Role | Teaching Assistant (lab & grader) |
 | ◎ Main instructor | [Pierre Beaurepaire](http://www.institutpascal.uca.fr/index.php/fr/membres-m3g?idag=952) |
@@ -43,7 +43,7 @@ author_profile: true
 ### ★ FEMROB4: Introduction to the Finite Element Method @ Polytech Sorbonne ★
 * KeyWords: finite element analysis/method, partial differential equations, continuum mechanics, strain/stress tensors, variational methods, discretization, Galerkin approach
 
-| ◎ Period | January 2016 - December 2017 |
+| ◎ Period | January 2016 - December 2017 (3 years) |
 | ◎ Format | 20 hours (lectures) + 8 hours (labs) |
 | ◎ Role | Principal Instructor (lecturer, lab & grader) |
 | ◎ Contact | Jean-Luc Zarader & Marie-Aude Vitrani |
@@ -57,7 +57,7 @@ author_profile: true
 ### ★ MSAEE5ME33: Structural Dynamics and Experimental Modal Analysis @ EPF Engineering School (Sceaux) ★
 * KeyWords: oscillators, vibrations, modal analysis, modal testing, damping factor, Fast Fourier Transform
 
-| ◎ Period | October 2015 - September 2017 |
+| ◎ Period | October 2015 - September 2017 (2 years) |
 | ◎ Format | 1 lab (4 hrs) / group (6 students) |
 | ◎ Role | Principle Instructor (lab & grader) |
 | ◎ Contact | Odile Tissier |
