@@ -12,8 +12,8 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
 * Marie TEMPLE-BOYER (2024 - 2027)
   - Title: ``_Certifiable approaches for the simulation and estimation of rare events_''
   - Advisors: [Guillaume Perrin](https://pagespro.univ-gustave-eiffel.fr/guillaume-perrin), <ins> V. C.</ins>, Julien Pelamatti and Emmanuel Remy
-* Edgar JABER (2022 - 2025)
-  - Title: ``_Hybrid prognostics using simulation codes and statistical models applied to the study of steam generators clogging_''
+* [Edgar JABER](https://edgarjaber.github.io/) (2023 - 2026)
+  - Title: ``_Hybrid prognostics using simulation codes and statistical models : Application to the study of steam generators clogging_''
   - Advisors: [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/), [Didier Lucor](https://perso.lisn.upsaclay.fr/lucor/), Emmanuel Remy and <ins> V. C.</ins>
   - Defended on February 9th, 2026
   - Jury: E. Chatzi (Rev.), B. Laurent-Bonneau (Rev.), P. M. Congedo (Exam.), J. Garnier (Pdt.), C. Schillings (Exam.), E. Vazquez (Exam.)
