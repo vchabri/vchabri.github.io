@@ -15,16 +15,18 @@ If I have, please let me know by emailing me directly (see Contact info on Vince
 * Edgar JABER (2022 - 2025)
   - Title: ``_Hybrid prognostics using simulation codes and statistical models applied to the study of steam generators clogging_''
   - Advisors: [Mathilde Mougeot](https://sites.google.com/site/mougeotmathilde/), [Didier Lucor](https://perso.lisn.upsaclay.fr/lucor/), Emmanuel Remy and <ins> V. C.</ins>
+  - Defended on February 9th, 2026
+  - Jury: E. Chatzi (Rev.), B. Laurent-Bonneau (Rev.), P. M. Congedo (Exam.), J. Garnier (Pdt.), C. Schillings (Exam.), E. Vazquez (Exam.)
 * Elias FEKHARI (2021 - 2024)
-  - Title: ``_Uncertainty quantification in multi-physics model for wind turbine asset management_''
+  - Title: ``[_Uncertainty quantification in multi-physics model for wind turbine asset management_](https://theses.hal.science/tel-04617148)''
   - Advisors: [Bertrand Iooss](https://biooss1.wixsite.com/bertrand), <ins> V. C.</ins> and Joseph Muré
-  - Defended on March, 12th, 2024 ([manuscript](https://theses.hal.science/tel-04617148))
-  - Jury: Pr. Franck Schoefs (Rev.), Pr. Daniel Straub (Rev.), Dr. Mireille Bossy (Pdt.), Pr. Sébastien Da Veiga (Exam.), Pr. Bruno Sudret (Exam.), Dr. Anaïs Lovera (Guest)
+  - Defended on March 12th, 2024
+  - Jury: Franck Schoefs (Rev.), Daniel Straub (Rev.), Mireille Bossy (Pdt.), Sébastien Da Veiga (Exam.), Bruno Sudret (Exam.), Anaïs Lovera (Guest)
 * Antoine AJENJO (2019 - 2022)
-  - Title: ``_Info-gap robustness assessment of reliability evaluations for the safety of critical industrial systems_''
+  - Title: ``[_Info-gap robustness assessment of reliability evaluations for the safety of critical industrial systems_](https://theses.hal.science/tel-04083789)''
   - Advisors: Scott Cogan, Emeline Sadoulet-Reboul, <ins> V. C.</ins> and Emmanuel Ardillon
-  - Defended on November, 15th, 2022 ([manuscript](https://theses.hal.science/tel-04083789))
-  - Jury: Dr. François Hemez (Rev.), Dr. Jérôme Morio (Rev.), Pr. Anas Batou (Exam.), Pr. Pierre-Alain Boucard (Pdt.)
+  - Defended on November 15th, 2022
+  - Jury: François Hemez (Rev.), Jérôme Morio (Rev.), Anas Batou (Exam.), Pierre-Alain Boucard (Pdt.)
 
 ### Postdocs
 * Gabriel SARAZIN
